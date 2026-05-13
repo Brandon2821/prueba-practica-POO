@@ -1,0 +1,532 @@
+--- REGISTRO DE NOTAS PARA: Acosta Hanna ---
+Ingrese nota 1 (0-10): 8
+Ingrese nota 2 (0-10): 4
+Ingrese nota 3 (0-10): 7
+Ingrese nota 4 (0-10): 7
+Ingrese nota 5 (0-10): 8
+
+--- RESULTADOS DE Acosta Hanna ---
+Promedio: 6.80
+Nota mayor: 8.00
+Nota menor: 4.00
+Aprobados: 4
+Reprobados: 1
+
+--- REGISTRO DE NOTAS PARA: Andiade Hugo ---
+Ingrese nota 1 (0-10): 4
+Ingrese nota 2 (0-10): 5
+Ingrese nota 3 (0-10): 7
+Ingrese nota 4 (0-10): 10
+Ingrese nota 5 (0-10): 7
+
+--- RESULTADOS DE Andiade Hugo ---
+Promedio: 6.60
+Nota mayor: 10.00
+Nota menor: 4.00
+Aprobados: 3
+Reprobados: 2
+
+--- REGISTRO DE NOTAS PARA: Atiencia Josue ---
+Ingrese nota 1 (0-10): 10
+Ingrese nota 2 (0-10): 6
+Ingrese nota 3 (0-10): 9
+Ingrese nota 4 (0-10): 10
+Ingrese nota 5 (0-10): 5
+
+--- RESULTADOS DE Atiencia Josue ---
+Promedio: 8.00
+Nota mayor: 10.00
+Nota menor: 5.00
+Aprobados: 3
+Reprobados: 2
+
+--- REGISTRO DE NOTAS PARA: Balarezo Diego ---
+Ingrese nota 1 (0-10): 4
+Ingrese nota 2 (0-10): 8
+Ingrese nota 3 (0-10): 7
+Ingrese nota 4 (0-10): 6
+Ingrese nota 5 (0-10): 4
+
+--- RESULTADOS DE Balarezo Diego ---
+Promedio: 5.80
+Nota mayor: 8.00
+Nota menor: 4.00
+Aprobados: 2
+Reprobados: 3
+
+--- REGISTRO DE NOTAS PARA: Ballonuevo Jo ---
+Ingrese nota 1 (0-10): 5
+Ingrese nota 2 (0-10): 9
+Ingrese nota 3 (0-10): 6
+Ingrese nota 4 (0-10): 4
+Ingrese nota 5 (0-10): 7
+
+--- RESULTADOS DE Ballonuevo Jo ---
+Promedio: 6.20
+Nota mayor: 9.00
+Nota menor: 4.00
+Aprobados: 2
+Reprobados: 3
+
+--- REGISTRO DE NOTAS PARA: Bedoya Juan ---
+Ingrese nota 1 (0-10): 10
+Ingrese nota 2 (0-10): 5
+Ingrese nota 3 (0-10): 8
+Ingrese nota 4 (0-10): 6
+Ingrese nota 5 (0-10): 7
+
+--- RESULTADOS DE Bedoya Juan ---
+Promedio: 7.20
+Nota mayor: 10.00
+Nota menor: 5.00
+Aprobados: 3
+Reprobados: 2
+
+--- REGISTRO DE NOTAS PARA: Bravo Samuel ---
+Ingrese nota 1 (0-10): 7
+Ingrese nota 2 (0-10): 6
+Ingrese nota 3 (0-10): 10
+Ingrese nota 4 (0-10): 9
+Ingrese nota 5 (0-10): 6
+
+--- RESULTADOS DE Bravo Samuel ---
+Promedio: 7.60
+Nota mayor: 10.00
+Nota menor: 6.00
+Aprobados: 3
+Reprobados: 2
+
+--- REGISTRO DE NOTAS PARA: Cajiao Paula ---
+Ingrese nota 1 (0-10): 7
+Ingrese nota 2 (0-10): 5
+Ingrese nota 3 (0-10): 9
+Ingrese nota 4 (0-10): 6
+Ingrese nota 5 (0-10): 9
+
+--- RESULTADOS DE Cajiao Paula ---
+Promedio: 7.20
+Nota mayor: 9.00
+Nota menor: 5.00
+Aprobados: 3
+Reprobados: 2
+
+--- REGISTRO DE NOTAS PARA: Calvopina Brandon ---
+Ingrese nota 1 (0-10): 6
+Ingrese nota 2 (0-10): 5
+Ingrese nota 3 (0-10): 7
+Ingrese nota 4 (0-10): 10
+Ingrese nota 5 (0-10): 10
+
+--- RESULTADOS DE Calvopina Brandon ---
+Promedio: 7.60
+Nota mayor: 10.00
+Nota menor: 5.00
+Aprobados: 3
+Reprobados: 2
+
+--- REGISTRO DE NOTAS PARA: Castelo Katheline ---
+Ingrese nota 1 (0-10): 5
+Ingrese nota 2 (0-10): 7
+Ingrese nota 3 (0-10): 8
+Ingrese nota 4 (0-10): 7
+Ingrese nota 5 (0-10): 4
+
+--- RESULTADOS DE Castelo Katheline ---
+Promedio: 6.20
+Nota mayor: 8.00
+Nota menor: 4.00
+Aprobados: 3
+Reprobados: 2
+
+--- REGISTRO DE NOTAS PARA: Chacha Victor ---
+Ingrese nota 1 (0-10): 8
+Ingrese nota 2 (0-10): 4
+Ingrese nota 3 (0-10): 5
+Ingrese nota 4 (0-10): 5
+Ingrese nota 5 (0-10): 5
+
+--- RESULTADOS DE Chacha Victor ---
+Promedio: 5.40
+Nota mayor: 8.00
+Nota menor: 4.00
+Aprobados: 1
+Reprobados: 4
+
+--- REGISTRO DE NOTAS PARA: Chiluiza Steed ---
+Ingrese nota 1 (0-10): 6
+Ingrese nota 2 (0-10): 8
+Ingrese nota 3 (0-10): 6
+Ingrese nota 4 (0-10): 10
+Ingrese nota 5 (0-10): 5
+
+--- RESULTADOS DE Chiluiza Steed ---
+Promedio: 7.00
+Nota mayor: 10.00
+Nota menor: 5.00
+Aprobados: 2
+Reprobados: 3
+
+--- REGISTRO DE NOTAS PARA: Dominguez Daniel ---
+Ingrese nota 1 (0-10): 6
+Ingrese nota 2 (0-10): 9
+Ingrese nota 3 (0-10): 8
+Ingrese nota 4 (0-10): 7
+Ingrese nota 5 (0-10): 7
+
+--- RESULTADOS DE Dominguez Daniel ---
+Promedio: 7.40
+Nota mayor: 9.00
+Nota menor: 6.00
+Aprobados: 4
+Reprobados: 1
+
+--- REGISTRO DE NOTAS PARA: Freire Alan ---
+Ingrese nota 1 (0-10): 7
+Ingrese nota 2 (0-10): 4
+Ingrese nota 3 (0-10): 9
+Ingrese nota 4 (0-10): 8
+Ingrese nota 5 (0-10): 6
+
+--- RESULTADOS DE Freire Alan ---
+Promedio: 6.80
+Nota mayor: 9.00
+Nota menor: 4.00
+Aprobados: 3
+Reprobados: 2
+
+--- REGISTRO DE NOTAS PARA: Gualle Abisag ---
+Ingrese nota 1 (0-10): 10
+Ingrese nota 2 (0-10): 8
+Ingrese nota 3 (0-10): 5
+Ingrese nota 4 (0-10): 10
+Ingrese nota 5 (0-10): 5
+
+--- RESULTADOS DE Gualle Abisag ---
+Promedio: 7.60
+Nota mayor: 10.00
+Nota menor: 5.00
+Aprobados: 3
+Reprobados: 2
+
+--- REGISTRO DE NOTAS PARA: Guaman Alexander ---
+Ingrese nota 1 (0-10): 7
+Ingrese nota 2 (0-10): 5
+Ingrese nota 3 (0-10): 4
+Ingrese nota 4 (0-10): 4
+Ingrese nota 5 (0-10): 7
+
+--- RESULTADOS DE Guaman Alexander ---
+Promedio: 5.40
+Nota mayor: 7.00
+Nota menor: 4.00
+Aprobados: 2
+Reprobados: 3
+
+--- REGISTRO DE NOTAS PARA: Guanga Sebastian ---
+Ingrese nota 1 (0-10): 6
+Ingrese nota 2 (0-10): 10
+Ingrese nota 3 (0-10): 8
+Ingrese nota 4 (0-10): 9
+Ingrese nota 5 (0-10): 4
+
+--- RESULTADOS DE Guanga Sebastian ---
+Promedio: 7.40
+Nota mayor: 10.00
+Nota menor: 4.00
+Aprobados: 3
+Reprobados: 2
+
+--- REGISTRO DE NOTAS PARA: Guanotoa Karla ---
+Ingrese nota 1 (0-10): 8
+Ingrese nota 2 (0-10): 10
+Ingrese nota 3 (0-10): 4
+Ingrese nota 4 (0-10): 5
+Ingrese nota 5 (0-10): 7
+
+--- RESULTADOS DE Guanotoa Karla ---
+Promedio: 6.80
+Nota mayor: 10.00
+Nota menor: 4.00
+Aprobados: 3
+Reprobados: 2
+
+--- REGISTRO DE NOTAS PARA: Landeta Edison ---
+Ingrese nota 1 (0-10): 8
+Ingrese nota 2 (0-10): 6
+Ingrese nota 3 (0-10): 8
+Ingrese nota 4 (0-10): 5
+Ingrese nota 5 (0-10): 4
+
+--- RESULTADOS DE Landeta Edison ---
+Promedio: 6.20
+Nota mayor: 8.00
+Nota menor: 4.00
+Aprobados: 2
+Reprobados: 3
+
+--- REGISTRO DE NOTAS PARA: Looy Jhon ---
+Ingrese nota 1 (0-10): 10
+Ingrese nota 2 (0-10): 10
+Ingrese nota 3 (0-10): 4
+Ingrese nota 4 (0-10): 7
+Ingrese nota 5 (0-10): 5
+
+--- RESULTADOS DE Looy Jhon ---
+Promedio: 7.20
+Nota mayor: 10.00
+Nota menor: 4.00
+Aprobados: 3
+Reprobados: 2
+
+--- REGISTRO DE NOTAS PARA: Lopez Washington ---
+Ingrese nota 1 (0-10): 10
+Ingrese nota 2 (0-10): 5
+Ingrese nota 3 (0-10): 6
+Ingrese nota 4 (0-10): 7
+Ingrese nota 5 (0-10): 7
+
+--- RESULTADOS DE Lopez Washington ---
+Promedio: 7.00
+Nota mayor: 10.00
+Nota menor: 5.00
+Aprobados: 3
+Reprobados: 2
+
+--- REGISTRO DE NOTAS PARA: Miranda Imanol ---
+Ingrese nota 1 (0-10): 7
+Ingrese nota 2 (0-10): 5
+Ingrese nota 3 (0-10): 9
+Ingrese nota 4 (0-10): 6
+Ingrese nota 5 (0-10): 5
+
+--- RESULTADOS DE Miranda Imanol ---
+Promedio: 6.40
+Nota mayor: 9.00
+Nota menor: 5.00
+Aprobados: 2
+Reprobados: 3
+
+--- REGISTRO DE NOTAS PARA: Monar Jhair ---
+Ingrese nota 1 (0-10): 8
+Ingrese nota 2 (0-10): 8
+Ingrese nota 3 (0-10): 5
+Ingrese nota 4 (0-10): 10
+Ingrese nota 5 (0-10): 4
+
+--- RESULTADOS DE Monar Jhair ---
+Promedio: 7.00
+Nota mayor: 10.00
+Nota menor: 4.00
+Aprobados: 3
+Reprobados: 2
+
+--- REGISTRO DE NOTAS PARA: Muyulema Mateo ---
+Ingrese nota 1 (0-10): 6
+Ingrese nota 2 (0-10): 7
+Ingrese nota 3 (0-10): 6
+Ingrese nota 4 (0-10): 5
+Ingrese nota 5 (0-10): 9
+
+--- RESULTADOS DE Muyulema Mateo ---
+Promedio: 6.60
+Nota mayor: 9.00
+Nota menor: 5.00
+Aprobados: 2
+Reprobados: 3
+
+--- REGISTRO DE NOTAS PARA: Narvaez Antonella ---
+Ingrese nota 1 (0-10): 9
+Ingrese nota 2 (0-10): 10
+Ingrese nota 3 (0-10): 5
+Ingrese nota 4 (0-10): 10
+Ingrese nota 5 (0-10): 5
+
+--- RESULTADOS DE Narvaez Antonella ---
+Promedio: 7.80
+Nota mayor: 10.00
+Nota menor: 5.00
+Aprobados: 3
+Reprobados: 2
+
+--- REGISTRO DE NOTAS PARA: Nunez Bryan ---
+Ingrese nota 1 (0-10): 7
+Ingrese nota 2 (0-10): 10
+Ingrese nota 3 (0-10): 6
+Ingrese nota 4 (0-10): 6
+Ingrese nota 5 (0-10): 7
+
+--- RESULTADOS DE Nunez Bryan ---
+Promedio: 7.20
+Nota mayor: 10.00
+Nota menor: 6.00
+Aprobados: 3
+Reprobados: 2
+
+--- REGISTRO DE NOTAS PARA: Pilco Mario ---
+Ingrese nota 1 (0-10): 5
+Ingrese nota 2 (0-10): 4
+Ingrese nota 3 (0-10): 8
+Ingrese nota 4 (0-10): 9
+Ingrese nota 5 (0-10): 4
+
+--- RESULTADOS DE Pilco Mario ---
+Promedio: 6.00
+Nota mayor: 9.00
+Nota menor: 4.00
+Aprobados: 2
+Reprobados: 3
+
+--- REGISTRO DE NOTAS PARA: Pomaquero Katheline ---
+Ingrese nota 1 (0-10): 6
+Ingrese nota 2 (0-10): 6
+Ingrese nota 3 (0-10): 5
+Ingrese nota 4 (0-10): 4
+Ingrese nota 5 (0-10): 6
+
+--- RESULTADOS DE Pomaquero Katheline ---
+Promedio: 5.40
+Nota mayor: 6.00
+Nota menor: 4.00
+Aprobados: 0
+Reprobados: 5
+
+--- REGISTRO DE NOTAS PARA: Quevedo Gina ---
+Ingrese nota 1 (0-10): 7
+Ingrese nota 2 (0-10): 7
+Ingrese nota 3 (0-10): 8
+Ingrese nota 4 (0-10): 5
+Ingrese nota 5 (0-10): 7
+
+--- RESULTADOS DE Quevedo Gina ---
+Promedio: 6.80
+Nota mayor: 8.00
+Nota menor: 5.00
+Aprobados: 4
+Reprobados: 1
+
+--- REGISTRO DE NOTAS PARA: Rivadeneira Matias ---
+Ingrese nota 1 (0-10): 10
+Ingrese nota 2 (0-10): 7
+Ingrese nota 3 (0-10): 9
+Ingrese nota 4 (0-10): 5
+Ingrese nota 5 (0-10): 9
+
+--- RESULTADOS DE Rivadeneira Matias ---
+Promedio: 8.00
+Nota mayor: 10.00
+Nota menor: 5.00
+Aprobados: 4
+Reprobados: 1
+
+--- REGISTRO DE NOTAS PARA: Rocha Carolina ---
+Ingrese nota 1 (0-10): 8
+Ingrese nota 2 (0-10): 6
+Ingrese nota 3 (0-10): 8
+Ingrese nota 4 (0-10): 7
+Ingrese nota 5 (0-10): 8
+
+--- RESULTADOS DE Rocha Carolina ---
+Promedio: 7.40
+Nota mayor: 8.00
+Nota menor: 6.00
+Aprobados: 4
+Reprobados: 1
+
+--- REGISTRO DE NOTAS PARA: Sanchez Isaac ---
+Ingrese nota 1 (0-10): 7
+Ingrese nota 2 (0-10): 4
+Ingrese nota 3 (0-10): 5
+Ingrese nota 4 (0-10): 7
+Ingrese nota 5 (0-10): 9
+
+--- RESULTADOS DE Sanchez Isaac ---
+Promedio: 6.40
+Nota mayor: 9.00
+Nota menor: 4.00
+Aprobados: 3
+Reprobados: 2
+
+--- REGISTRO DE NOTAS PARA: Segovia Joseph ---
+Ingrese nota 1 (0-10): 7
+Ingrese nota 2 (0-10): 7
+Ingrese nota 3 (0-10): 5
+Ingrese nota 4 (0-10): 7
+Ingrese nota 5 (0-10): 8
+
+--- RESULTADOS DE Segovia Joseph ---
+Promedio: 6.80
+Nota mayor: 8.00
+Nota menor: 5.00
+Aprobados: 4
+Reprobados: 1
+
+--- REGISTRO DE NOTAS PARA: Supe Joan ---
+Ingrese nota 1 (0-10): 8
+Ingrese nota 2 (0-10): 6
+Ingrese nota 3 (0-10): 8
+Ingrese nota 4 (0-10): 7
+Ingrese nota 5 (0-10): 7
+
+--- RESULTADOS DE Supe Joan ---
+Promedio: 7.20
+Nota mayor: 8.00
+Nota menor: 6.00
+Aprobados: 4
+Reprobados: 1
+
+--- REGISTRO DE NOTAS PARA: Tocapanta Matias ---
+Ingrese nota 1 (0-10): 9
+Ingrese nota 2 (0-10): 5
+Ingrese nota 3 (0-10): 8
+Ingrese nota 4 (0-10): 7
+Ingrese nota 5 (0-10): 4
+
+--- RESULTADOS DE Tocapanta Matias ---
+Promedio: 6.60
+Nota mayor: 9.00
+Nota menor: 4.00
+Aprobados: 3
+Reprobados: 2
+
+--- REGISTRO DE NOTAS PARA: Viedesoto Kevin ---
+Ingrese nota 1 (0-10): 7
+Ingrese nota 2 (0-10): 10
+Ingrese nota 3 (0-10): 4
+Ingrese nota 4 (0-10): 10
+Ingrese nota 5 (0-10): 4
+
+--- RESULTADOS DE Viedesoto Kevin ---
+Promedio: 7.00
+Nota mayor: 10.00
+Nota menor: 4.00
+Aprobados: 3
+Reprobados: 2
+
+--- REGISTRO DE NOTAS PARA: Villacres Alejandro ---
+Ingrese nota 1 (0-10): 7
+Ingrese nota 2 (0-10): 8
+Ingrese nota 3 (0-10): 4
+Ingrese nota 4 (0-10): 4
+Ingrese nota 5 (0-10): 6
+
+--- RESULTADOS DE Villacres Alejandro ---
+Promedio: 5.80
+Nota mayor: 8.00
+Nota menor: 4.00
+Aprobados: 2
+Reprobados: 3
+
+--- REGISTRO DE NOTAS PARA: Viteri Shantal ---
+Ingrese nota 1 (0-10): 4
+Ingrese nota 2 (0-10): 5
+Ingrese nota 3 (0-10): 4
+Ingrese nota 4 (0-10): 8
+Ingrese nota 5 (0-10): 7
+
+--- RESULTADOS DE Viteri Shantal ---
+Promedio: 5.60
+Nota mayor: 8.00
+Nota menor: 4.00
+Aprobados: 2
+Reprobados: 3
+
